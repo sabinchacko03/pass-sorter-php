@@ -1,6 +1,6 @@
 --- STEPS TO FOLLOW ---
 
-1. Extract the copy the folder to the server path (localhost/ webserver)
+1. Copy the folder(or file) to the server path (localhost/ webserver) [only one file is needed to run the application 'index.php']
 2. Go to localhost/pass-sorter-php in the browser
 3. To check the working example please visit https://sabinchacko.com/pass-sorter-php/
 
